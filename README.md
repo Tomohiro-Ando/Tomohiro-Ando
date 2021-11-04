@@ -1,4 +1,4 @@
-This site provide R package. 
+This site provides R package. 
 
 <!---
 Tomohiro-Ando/Tomohiro-Ando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
